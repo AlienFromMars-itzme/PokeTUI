@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "bulbasaur",
+    "types": ["grass", "poison"],
+    "stats": {"hp": 45, "attack": 49, "defense": 49, "sp_attack": 65, "sp_defense": 65, "speed": 45},
+    "abilities": ["overgrow"],
+    "learnset": [{"level": 1, "move": "tackle"}, {"level": 3, "move": "growl"}],
+    "evolution": {"evolves_to": "ivysaur", "level": 16},
+    "catch_rate": 45
+  }
+]

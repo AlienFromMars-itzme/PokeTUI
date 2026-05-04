@@ -1,0 +1,4 @@
+[
+  {"name":"tackle","type":"normal","category":"physical","power":40,"accuracy":100,"pp":35,"effect":"none"},
+  {"name":"growl","type":"normal","category":"status","power":0,"accuracy":100,"pp":40,"effect":"lower_attack"}
+]
